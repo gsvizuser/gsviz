@@ -1,4 +1,4 @@
-# GSViz: Progressive 
+# GSViz: Progressive Visualization of Geospatial Influences inSocial Networks 
 This repository is for hosting the source code of the paper GSViz submitted to SIGMOD 2022.
 
 A video of the prototype on YouTube 
